@@ -2,7 +2,7 @@
 
 ## Description
 The logic of the program is 
-* A number is called an Armstrong number if it is equal to the cube of its every digit. For example, 153 is an Armstrong number because of 153= 1+ 125+27, which is equal to 1^3+5^3+3^3. You need to write a program to check if the given number is Armstrong number or not.
+* A number is called an Armstrong number if it is equal to the cube of its every digit. For example, 153 is an Armstrong number because of 153= 1+ 125+27, which is equal to 1^3+5^3+3^3. The program checks if the given number is Armstrong number or not.
 
 ## How the program works
 The project contains two classes main and ArmstrongNumbers, the ArmstrongNumbers class contains a method called ArmstrongNumber where it check if a given parameter is an 'armstrong number' or not.
