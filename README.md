@@ -16,7 +16,6 @@ In-order to run the program run "main.java"
 ## Highlights 
 * Works well and returns the correct output.
 * The code is efficient 
-* The number of tests done is limited 
 
 ## Imrovements 
 * The number of tests done is limited and it can be improved.
