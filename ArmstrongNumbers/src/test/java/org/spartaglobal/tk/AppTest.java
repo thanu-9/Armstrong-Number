@@ -23,7 +23,7 @@ public class AppTest
     }
 
     @Test
-    public void checkIfArmstrongNumber8208True() {
+    public void checkIfArmstrongNumber407True() {
         Assertions.assertTrue(armstrongNumbers.ArmstrongNumber(407));
     }
     @Test
